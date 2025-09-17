@@ -61,6 +61,8 @@ Similarly, the Q-Learning algorithm demonstrates learning in the Taxi environmen
 
 ### Comparison
 
+![alt text](image.png)
+
 The analysis reveals several key findings:
 
 1. **Average Reward**: Q-Learning achieves higher average reward per episode during training
